@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1519802594 source:f:\for_job\mldemo\main.cpp
+	<iostream>
+	"data.hpp"
+	"DecisionTree.hpp"
+
+1519798228 f:\for_job\mldemo\include\data.hpp
+	<map>
+	<iostream>
+	<sstream>
+	<fstream>
+	<utility>
+	<string>
+	<set>
+	<vector>
+	<cmath>
+
+1519798453 f:\for_job\mldemo\include\decisiontree.hpp
+	<vector>
+	<string>
+	<map>
+	<algorithm>
+	<cmath>
+	<set>
+	"data.hpp"
+
+1519802285 source:f:\for_job\mldemo\decisiontree.cpp
+	"DecisionTree.hpp"
+
+1519801108 f:\for_job\mldemo\include\\decisiontree.hpp
+	<vector>
+	<string>
+	<map>
+	<algorithm>
+	<cmath>
+	<set>
+	"data.hpp"
+
+1519801994 f:\for_job\mldemo\include\\data.hpp
+	<map>
+	<iostream>
+	<sstream>
+	<fstream>
+	<utility>
+	<string>
+	<set>
+	<vector>
+	<cmath>
+
+1519801999 source:f:\for_job\mldemo\data.cpp
+	"data.hpp"
+
