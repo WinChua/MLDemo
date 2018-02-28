@@ -9,3 +9,9 @@
 
 
 ## Decision Tree
+
+clone之后运行
+
+```
+make
+make test
